@@ -19,6 +19,7 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
 - **Key Features:** Focuses on agent lifecycle management and responsive tool callbacks.
 - 🔗 [GitHub Repo](https://github.com/mahmud1rahman/Heatwave-Resilience-Agent/blob/main/README.md)
 - 📺 [YouTube Walkthrough](https://youtu.be/T0zAB1w-9jU?si=NRg7R5Mf2ve3_MMl)
+- 📝 [Kaggle Writeup](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/community-heatwave-resilience-agent)
 
 ### 2. ADK Ambient Expense Agent
 *Production-ready Agent for Expense Management*

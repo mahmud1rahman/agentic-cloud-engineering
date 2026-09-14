@@ -36,7 +36,7 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
   - Attended daily seminars, studied white papers, and completed assignments centered around vibe coding and AI agents.
 - **AI-Native Engineering Foundations** 
   - *By Addy Osmani (LinkedIn Learning) — Jun 1, 2026* | [View Certificate](https://www.linkedin.com/learning/certificates/c631d03533272c1183751704bdfc7722388fad10159425f7eec11245f588f8ec?trk=share_certificate)
-- **Build Your First App with Antigravity 2.0 — AI Learning Lab**
+- **Build Your First App with Antigravity 2.0 — AI Learning Lab** | [View Certificate](./assets/certificate.pdf)
   - Hands-on workshop covering app architecture, setup, and deployment using the Antigravity 2.0 framework.
 - **[My Credly Profile & Badges](https://www.credly.com/users/mahmudur-rahman.0e45e898)**
 

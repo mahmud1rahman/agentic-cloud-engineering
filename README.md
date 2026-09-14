@@ -55,7 +55,7 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
 
 ## 🔬 Hands-on Labs & Workshops
 
-Completed extensive learning activities focusing on AI agent architecture, Google Antigravity, and infrastructure on GCP.
+Completed extensive learning activities across Google's developer ecosystem through the Google Developer Program, focusing on AI agent architecture, Google Antigravity, and GCP infrastructure.
 
 ### AI Agent Development & Lifecycle
 - Create Your Own Executive Assistant with Agent Development Kit *(Aug 2026)*

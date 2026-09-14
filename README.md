@@ -53,9 +53,7 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
 - **Google Cloud: Prompt Engineering Guide** *(Dec 8, 2025)*
 - **Gen AI: Beyond the Chatbot** *(May 17, 2025)*
 
-<details>
-<summary><b>🔬 View all Hands-on Labs & Workshops</b></summary>
-<br>
+## 🔬 Hands-on Labs & Workshops
 
 Completed extensive learning activities focusing on AI agent architecture, Google Antigravity, and infrastructure on GCP.
 
@@ -83,5 +81,3 @@ Completed extensive learning activities focusing on AI agent architecture, Googl
 - Antigravity CLI on GCE with a Private Service Connect endpoint *(Aug 2026)*
 - ADK with Multimodal Tool Interaction: Part 2 - MCP Toolset with Tool Callbacks *(Aug 2026)*
 - Google Developer Knowledge MCP server in Google Antigravity 2.0, IDE, and/or CLI *(Jun 2026)*
-
-</details>

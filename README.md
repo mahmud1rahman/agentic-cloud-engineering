@@ -17,21 +17,21 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
 - **What it does:** Official capstone project submission for the intensive Vibe Coding course, designed to dispatch resources efficiently during community heatwaves.
 - **Architecture:** Built using the Agent Development Kit (ADK) and Antigravity.
 - **Key Features:** Focuses on agent lifecycle management and responsive tool callbacks.
-- 🔗 [GitHub Repo](#) *(Add your GitHub repo link here)*
+- 🔗 [GitHub Repo](https://github.com/mahmud1rahman/Heatwave-Resilience-Agent/blob/main/README.md)
 - 📺 [YouTube Walkthrough](#) *(Add your video link here)*
 
 ### 2. ADK Ambient Expense Agent
 *Production-ready Agent for Expense Management*
 - **What it does:** An ambient agent built for automated expense management and tracking.
 - **Infrastructure:** Demonstrates practical production deployment utilizing GCP Cloud Run and Agent Runtime.
-- 🔗 [GitHub Repo](#) *(Add your GitHub repo link here)*
+- 🔗 [GitHub Repo](https://github.com/mahmud1rahman/ambient-expense-agent)
 
 ## 🔄 Current Focus
 - **Associate Cloud Engineering Course** (Currently In Progress)
 - **Associate Cloud Engineer Certification Path** (Actively Completing on Google Skills)
 
 ## 🎓 Certifications & Badges
-- **5-Day AI Agents: Intensive Vibe Coding Course (with Google 2026)**
+- **5-Day AI Agents: Intensive Vibe Coding Course (with Google 2026)** | [View Badge](https://www.kaggle.com/certification/badges/mahmudrahman121/108)
   - Attended daily seminars, studied white papers, and completed assignments centered around vibe coding and AI agents.
 - **AI-Native Engineering Foundations** 
   - *By Addy Osmani (LinkedIn Learning) — Jun 1, 2026* | [View Certificate](https://www.linkedin.com/learning/certificates/c631d03533272c1183751704bdfc7722388fad10159425f7eec11245f588f8ec?trk=share_certificate)

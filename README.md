@@ -40,18 +40,21 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
   - Hands-on workshop covering app architecture, setup, and deployment using the Antigravity 2.0 framework.
 - **[My Credly Profile & Badges](https://www.credly.com/users/mahmudur-rahman.0e45e898)**
 
-## 🏅 Google Skills Badges (Aug 2025 - Aug 2026)
-- **Build Agent Skills with Google** *(Aug 8, 2026)*
-- **Deploy Your First Agent** *(Jul 29, 2026)*
-- **Build and Deploy Agents in Production** *(Jul 27, 2026)*
-- **Add Agent Capabilities With Tools** *(Jul 27, 2026)*
-- **Manage Agent Memory and State** *(Jul 26, 2026)*
-- **Optimize Agent Behavior** *(Jul 25, 2026)*
-- **Build a Certification Study Guide: ACE Exam Prep with Gemini Notebook** *(Jul 3, 2026)*
-- **Agent Fundamentals** *(Jun 15, 2026)*
-- **Create Your First Gemini Enterprise Application** *(Jun 10, 2026)*
-- **Google Cloud: Prompt Engineering Guide** *(Dec 8, 2025)*
-- **Gen AI: Beyond the Chatbot** *(May 17, 2025)*
+## 🏅 Google Skills Badges (May 2025 - Aug 2026)
+
+| Badge | Skill Name | Date Earned |
+| :---: | :--- | :--- |
+| <img src="https://cdn.qwiklabs.com/0fvA7Fn0Cgfa809FpmJqzgoWFzcoqbMExyFK4EXtink%3D" width="40"> | [**Build Agent Skills with Google**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/26414867) | Aug 8, 2026 |
+| <img src="https://cdn.qwiklabs.com/VMeE7G8h7dlwA9462MUloHeu9IXGm3RTf%2BTMjGu2l9w%3D" width="40"> | [**Deploy Your First Agent**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/26080569) | Jul 29, 2026 |
+| <img src="https://cdn.qwiklabs.com/cN%2Bb%2FLtQNnJrj9jnfxxqyGZKUNSlgZOqOSyi2TqtCKk%3D" width="40"> | [**Build and Deploy Agents in Production**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25980906) | Jul 27, 2026 |
+| <img src="https://cdn.qwiklabs.com/VaHsZ9p1H0Sujh3hHMJXk9LCDRptXbQSZbIX2AkDj1E%3D" width="40"> | [**Add Agent Capabilities With Tools**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25979899) | Jul 27, 2026 |
+| <img src="https://cdn.qwiklabs.com/q6OCnsC8zwmkvQRl6thtjqeoaPZuxdJ3nsqCnD1cAd8%3D" width="40"> | [**Manage Agent Memory and State**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25953149) | Jul 26, 2026 |
+| <img src="https://cdn.qwiklabs.com/MupRp8JPAmQXv9mywaQXnuZ47dn7WZyOKN8lwTpD9bY%3D" width="40"> | [**Optimize Agent Behavior**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25919353) | Jul 25, 2026 |
+| <img src="https://cdn.qwiklabs.com/lE1%2F0DKUDs0uJ7s9CUzUpbjfvkfR7QanlkJCoLeWkA8%3D" width="40"> | [**Build a Certification Study Guide: ACE Exam Prep**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25314968) | Jul 3, 2026 |
+| <img src="https://cdn.qwiklabs.com/d7fgl5Am8p0NbqK9QhS4%2FDYPRBDMSwU6392ifq0p7UY%3D" width="40"> | [**Agent Fundamentals**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/24932776) | Jun 15, 2026 |
+| <img src="https://cdn.qwiklabs.com/%2FoLo60xg2CMZB%2BWs7JLFlQhAVVn7ZXEVsiHws3APcHY%3D" width="40"> | [**Create Your First Gemini Enterprise Application**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/24832164) | Jun 10, 2026 |
+| <img src="https://cdn.qwiklabs.com/XG7YcUxurM6j1isLPt%2BK2RQGRlw1xYyfZWr6xqLII58%3D" width="40"> | [**[DEPRECATED] Google Cloud: Prompt Engineering Guide**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/20737025) | Dec 8, 2025 |
+| <img src="https://cdn.qwiklabs.com/OvdXfd6lTmuWMCP47rNxORhI%2Fg%2FMxaK%2F7mMea1hevrE%3D" width="40"> | [**Gen AI: Beyond the Chatbot**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/15840478) | May 17, 2025 |
 
 ## 🔬 Hands-on Labs & Workshops
 

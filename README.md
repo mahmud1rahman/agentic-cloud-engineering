@@ -23,7 +23,7 @@ This repository tracks my engineering journey across cloud infrastructure and Ag
 ### 2. ADK Ambient Expense Agent
 *Production-ready Agent for Expense Management*
 - **What it does:** An ambient agent built for automated expense management and tracking.
-- **Infrastructure:** Demonstrates practical production deployment utilizing GCP Cloud Run and Agent Runtime.
+- **Infrastructure:** Demonstrates practical production deployment utilising GCP Cloud Run and Agent Runtime.
 - 🔗 [GitHub Repo](https://github.com/mahmud1rahman/ambient-expense-agent)
 
 ## 🎓 Certifications & Technical Training
@@ -44,7 +44,7 @@ This repository tracks my engineering journey across cloud infrastructure and Ag
 | <img src="https://cdn.qwiklabs.com/cN%2Bb%2FLtQNnJrj9jnfxxqyGZKUNSlgZOqOSyi2TqtCKk%3D" width="40"> | [**Build and Deploy Agents in Production**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25980906) | Jul 27, 2026 |
 | <img src="https://cdn.qwiklabs.com/VaHsZ9p1H0Sujh3hHMJXk9LCDRptXbQSZbIX2AkDj1E%3D" width="40"> | [**Add Agent Capabilities With Tools**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25979899) | Jul 27, 2026 |
 | <img src="https://cdn.qwiklabs.com/q6OCnsC8zwmkvQRl6thtjqeoaPZuxdJ3nsqCnD1cAd8%3D" width="40"> | [**Manage Agent Memory and State**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25953149) | Jul 26, 2026 |
-| <img src="https://cdn.qwiklabs.com/MupRp8JPAmQXv9mywaQXnuZ47dn7WZyOKN8lwTpD9bY%3D" width="40"> | [**Optimize Agent Behavior**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25919353) | Jul 25, 2026 |
+| <img src="https://cdn.qwiklabs.com/MupRp8JPAmQXv9mywaQXnuZ47dn7WZyOKN8lwTpD9bY%3D" width="40"> | [**Optimise Agent Behaviour**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25919353) | Jul 25, 2026 |
 | <img src="https://cdn.qwiklabs.com/lE1%2F0DKUDs0uJ7s9CUzUpbjfvkfR7QanlkJCoLeWkA8%3D" width="40"> | [**Build a Certification Study Guide: ACE Exam Prep**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/25314968) | Jul 3, 2026 |
 | <img src="https://cdn.qwiklabs.com/d7fgl5Am8p0NbqK9QhS4%2FDYPRBDMSwU6392ifq0p7UY%3D" width="40"> | [**Agent Fundamentals**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/24932776) | Jun 15, 2026 |
 | <img src="https://cdn.qwiklabs.com/%2FoLo60xg2CMZB%2BWs7JLFlQhAVVn7ZXEVsiHws3APcHY%3D" width="40"> | [**Create Your First Gemini Enterprise Application**](https://www.skills.google/public_profiles/550d617f-9e78-4e69-8b1c-b1dfbb90874c/badges/24832164) | Jun 10, 2026 |

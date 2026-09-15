@@ -29,18 +29,14 @@ My core focus? Designing and deploying autonomous, multi-agent systems using **G
 - **Infrastructure:** Demonstrates practical production deployment utilizing GCP Cloud Run and Agent Runtime.
 - 🔗 [GitHub Repo](https://github.com/mahmud1rahman/ambient-expense-agent)
 
-## 🔄 Current Focus
-- **Associate Cloud Engineering Course** (Currently In Progress)
-- **Associate Cloud Engineer Certification Path** (Actively Completing on Google Skills)
+## 🎓 Certifications & Technical Training
 
-## 🎓 Certifications & Badges
-- **5-Day AI Agents: Intensive Vibe Coding Course (with Google 2026)** | [View Badge](https://www.kaggle.com/certification/badges/mahmudrahman121/108)
-  - Attended daily seminars, studied white papers, and completed assignments centered around vibe coding and AI agents.
-- **AI-Native Engineering Foundations** 
-  - *By Addy Osmani (LinkedIn Learning) — Jun 1, 2026* | [View Certificate](https://www.linkedin.com/learning/certificates/c631d03533272c1183751704bdfc7722388fad10159425f7eec11245f588f8ec?trk=share_certificate)
-- **Build Your First App with Antigravity 2.0 — AI Learning Lab** | [View Certificate](./assets/certificate.pdf)
-  - Hands-on workshop covering app architecture, setup, and deployment using the Antigravity 2.0 framework.
-- **[My Credly Profile & Badges](https://www.credly.com/users/mahmudur-rahman.0e45e898)**
+- **Google Cloud Certified Associate Cloud Engineer (ACE) — Candidate** *(Target: Q4 2026)*
+- **AI Agents Intensive: Google & Kaggle (2026)** | [View Badge](https://www.kaggle.com/certification/badges/mahmudrahman121/108)
+  - Focused on autonomous multi-agent design, structured tool-calling patterns, and deployment runtimes.
+- **AI-Native Engineering Foundations — Addy Osmani (June 2026)** | [View Certificate](https://www.linkedin.com/learning/certificates/c631d03533272c1183751704bdfc7722388fad10159425f7eec11245f588f8ec?trk=share_certificate)
+- **Application Architecture on Antigravity 2.0 — AI Learning Lab (2026)** | [View Certificate](./assets/certificate.pdf)
+- **Verify Credentials:** [Credly Profile](https://www.credly.com/users/mahmudur-rahman.0e45e898)
 
 ## 🏅 Google Skills Badges (May 2025 - Aug 2026)
 

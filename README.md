@@ -1,9 +1,11 @@
 # Mahmudur Rahman 👋
 **Cloud & AI-Native Engineer**
 
-Welcome to my engineering portfolio! This repository showcases my hands-on experience, projects, and continuous learning at the intersection of **Artificial Intelligence** and **Cloud Infrastructure**. 
+Welcome to my engineering portfolio! ✨
 
-My core focus is designing, building, and deploying autonomous multi-agent systems using **Google Antigravity** and the **Agent Development Kit (ADK)**, backed by scalable and secure architecture on **Google Cloud Platform (GCP)**. I am passionate about bridging the gap between cutting-edge AI capabilities and enterprise-grade cloud deployments.
+This space is a curated showcase of my hands-on experience, projects, and continuous learning at the exciting intersection of **Artificial Intelligence** and **Cloud Infrastructure**.
+
+My core focus? Designing and deploying autonomous, multi-agent systems using **Google Antigravity** and the **Agent Development Kit (ADK)**. I am deeply passionate about bridging the gap between cutting-edge AI capabilities and robust, enterprise-grade cloud architecture on **GCP**—building systems that are as secure and scalable as they are intelligent.
 
 ## 🛠️ Core Technologies
 - **AI & Agents:** Agent Development Kit (ADK), Antigravity IDE, Antigravity CLI

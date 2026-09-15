@@ -8,7 +8,7 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
 ## 🛠️ Core Technologies
 - **AI & Agents:** Agent Development Kit (ADK), Antigravity IDE, Antigravity CLI
 - **Cloud Infrastructure:** GCP Cloud Run, Agent Runtime
-- **Core Concepts:** Multi-Agent Systems, Agent Lifecycle Management, Ambient Agents
+- **Core Concepts:** MCP, Multi-Agent Systems, Agent Lifecycle Management
 
 ## 🏆 Featured Projects
 
@@ -58,21 +58,17 @@ My core focus is designing, building, and deploying autonomous multi-agent syste
 Completed extensive learning activities across Google's developer ecosystem through the Google Developer Program, focusing on AI agent architecture, Google Antigravity, and GCP infrastructure.
 
 ### AI Agent Development & Lifecycle
-- Create Your Own Executive Assistant with Agent Development Kit *(Aug 2026)*
 - Build Multi-Agent Systems with ADK *(Jul 2026)*
 - Vibe Coding AI Agents: Managing the Agent Lifecycle with Agents CLI and ADK 2.0 *(Jul 2026)*
 - Deploy an ADK agent to Agent Runtime using Agents CLI *(Jul 2026)*
-- Vibecode an ADK 2.0 Ambient Agent with Antigravity and Agents CLI *(Jul 2026)*
 - Vibecode and Secure an AI Agent Lifecycle with Antigravity and TDD *(Jul 2026)*
 - Vibecode and Deploy a Frontend for an ADK agent *(Jul 2026)*
 - A Beginner's Workshop for Antigravity CLI & ADK: Build Your First AI Companion *(Jul 2026)*
 
 ### Google Antigravity & Core Architecture
 - Accelerating Development with Antigravity CLI *(Sep 2026)*
-- Building with Google Antigravity *(Jul 2026)*
 - Build & Ship an AI App with Antigravity *(Jul 2026)*
 - Authoring Google Antigravity Skills *(Jun 2026)*
-- Getting Started with Google Antigravity *(Jun 2026)*
 - Hands-on with Antigravity CLI *(Jun 2026)*
 
 ### Advanced Integrations, Security & Infrastructure
